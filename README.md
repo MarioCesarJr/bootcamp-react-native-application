@@ -20,8 +20,8 @@ GitHub app
 > react-native run-ios
 ```
 
-![App Screenshot 01](screenshot01.png)
+![App Screenshot 01](screenshot01.PNG)
 
-![App Screenshot 02](screenshot02.png)
+![App Screenshot 02](screenshot02.PNG)
 
-![App Screenshot 03](screenshot03.png)
+![App Screenshot 03](screenshot03.PNG)
